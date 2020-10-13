@@ -8,5 +8,6 @@ Install fdfind : https://github.com/sharkdp/fd
 
 ## Examples
 
-`find.sh <file_name>`
+`find.sh <filename>`
 
+![alt text](https://github.com/arnaud35300/find.sh/blob/main/find.sh.png)
